@@ -1,0 +1,11 @@
+.dots:before{
+    content: "";
+    background-image: url(../img/dots-bg.svg);
+    display: block;
+    height: 37px;
+    left: -14px;
+    top: -20px;
+    position: absolute;
+    width: 37px;
+}
+
