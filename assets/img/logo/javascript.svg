@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1100pt" height="1250pt" viewBox="0 0 1100 1250" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="1100" height="1250" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961;stroke:none;"/>
+  </g>
+</mask>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="1100" height="1250" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip2">
+  <rect x="0" y="0" width="1100" height="1250"/>
+</clipPath>
+<g id="surface7" clip-path="url(#clip2)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.921569;" d="M 186.21875 890.957031 L 185.792969 759.261719 C 185.792969 759.261719 321.347656 797.4375 398.136719 817.171875 L 399.425781 241.503906 L 508.816406 241.503906 L 508.816406 978.035156 Z M 186.21875 890.957031 "/>
+</g>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="1100" height="1250"/>
+</clipPath>
+<g id="surface9" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20%,20%,20%);fill-opacity:1;" d="M 102.140625 1123.886719 L 0.0390625 0 L 1099.976562 0.429688 L 998.738281 1123.027344 L 549.15625 1250 Z M 915.929688 1062.546875 L 1001.296875 99.949219 L 550.859375 99.949219 L 554.289062 1161.632812 Z M 508.816406 241.082031 L 399.425781 241.082031 L 398.136719 817.179688 L 185.792969 759.261719 L 186.21875 890.953125 L 508.816406 978.03125 Z M 508.816406 241.082031 "/>
+<use xlink:href="#surface7" mask="url(#mask1)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20%,20%,20%);fill-opacity:1;" d="M 550.859375 99.535156 L 1001.296875 99.535156 L 915.929688 1062.117188 L 550.859375 1161.203125 Z M 892.757812 900.808594 L 922.359375 540.910156 L 703.578125 565.359375 L 703.578125 373.199219 L 936.945312 372.34375 L 946.386719 241.082031 L 594.183594 242.796875 L 598.90625 720.664062 L 811.683594 684.199219 L 808.679688 790.585938 L 594.183594 847.636719 L 596.332031 978.042969 Z M 892.757812 900.808594 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface9" mask="url(#mask0)"/>
+</g>
+</svg>
